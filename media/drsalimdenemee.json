@@ -1,0 +1,16 @@
+{
+    "raporlar": [
+        {
+            "id": 1,
+            "baslik": "Satış Raporu",
+            "tarih": "2024-05-18",
+            "icerik": "Bu rapor, aylık satış verilerini içermektedir."
+        },
+        {
+            "id": 2,
+            "baslik": "Müşteri Raporu",
+            "tarih": "2024-05-18",
+            "icerik": "Bu rapor, müşteri memnuniyet anketlerinin sonuçlarını içermektedir."
+        }
+    ]
+}
